@@ -1,0 +1,196 @@
+name,lots,special,soft_wood,hard_wood,soft_iron,hard_iron,scrap_leather,heavy_leather,stone,wool,hemp,meat,vegetables,common_labor,uncommon_labor,uncommon_labor_type,Security,Order,Fear,Finance,Trade,Production,Hope,Faith,Tradition,Subversion,Scorn,Abuse,Spoil,Squalor,Degredation,Cruelty,Tragedy,Atrocity,Gravity
+Academy ,2,"** Paying the Vocation cost at a given level, gain Instruction in any Skill. Public Library. _Discount : Library, Upgrade: Military Academy, University_
+
+",5200,,,,13000,2600,,,5200,,,15600,10400,,+3,,,,,+3,,+3,+4,+1,+3,,,,,,+1,,
+Alchemist ,1,"**Adds herbs and drugs to general market / Must be adjacent to Housing
+
+",3200,,800,,1600,,1600,,,,800,8000,,,,,,+2,,+1,,,-2,,+1,,,+1,,,+1,+1,
+Archangel Statue ,2,"**
+
+",,,,4000,,,16000,,,,,12000,8000,liturgy,,,,,,,+5,,,,,,,,,,,,
+Arena ,4,"** Gravity +1
+
+",,2800,,2800,,,5600,,1400,,1400,14000,,,,,+5,+3,+5,,-2,+5,,,-5,+2,+1,,,,+5,+2,+1
+Bardic College ,2,"** Gravity +1
+
+",8000,,,,10000,,0,,4000,2000,2000,12000,,,,,,+3,+3,,,,+3,+2,+3,-3,,,+1,,,,+1
+Barracks ,1,"** Upgrades to Garrison.
+
+",2400,,800,,400,,0,,,,400,4000,,,+1,+2,+1,,,,,,,+1,,+1,,,,,+1,,
+Brewery ,1,"** Produces beer
+
+",1600,,,,800,,0,,,,1600,4000,,,,,,,,+1,,,,,,,,,+1,,,,
+Bridge ,1,"** Can be placed across water paths.
+
+",1600,,800,,,,1600,,,,,4000,,,,,,+1,,,,,,,,,,,,,,,
+Brothel ,1,"** Characters may benefit from therapy without aid of another player for 2 silver. They gain Lust 1.
+
+",4000,,,,1000,,0,,3000,1000,1000,10000,,,,,,+2,+3,,,+1,-2,+1,,+2,,+2,,,,,
+Bureau ,2,"**
+
+",1800,,,,,,0,,3600,,,6000,,,+3,,,+1,,,,,,+1,,+3,,,,,,,
+Bursary ,1,"** Allows bursar services
+
+",2400,,,4800,,,4800,,,,,12000,,,,,,+1,,,,,,,,,,,,,,,
+Butchery ,1,"** Food costs on construction and military upkeep are reduced 10%. You may benefit up to 5x.
+
+",4800,,1600,,,,1600,,,,,8000,,,,,,+2,+1,+5,,,,,,,+3,+5,,,,,
+Castle ,4,"** Creates a retreat for another battle if the city is lost.
+
+",5400,,2700,2700,,,10800,,,5400,,16200,10800,any combat,+5,+5,+5,,,,,,+3,,,+2,,,,,,,
+Cathedral ,4,"** Gravity +1. Gothic characters may take one free therapy per downtime._Discount: Church_
+
+",2400,,,4800,,,4800,,,,,12000,,,,,,,,,+5,+5,+5,,+3,+2,,,,-3,-3,,+1
+Church ,2,"**_Discount: Shrine, Bursary, Hospital. Upgrade: Cathedral, Monastary_
+
+",4800,1600,1600,,1600,,4800,,1600,,,1600,,,,,,,-2,,+4,+2,+3,,+1,+2,,,,,,,
+Cistern ,1,"** May not be adjacent to a dump, graveyard, crypt, necropolis, stable, stockyard, or tannery.
+
+",0,,300,,,,900,,,,,4800,,,,,,,,,,,,,,,,,,,,,
+Civic Monument ,1,"** The creator may describe the monument and what it represents. Citizens of Stragosa will know this story.
+
+",,,,,,,3000,,,,,3000,,,,,,,,,,+1,,,,,,,,,,,
+Corpse Heap ,1,"** Holds 100 dead. Will spring up automatically if there are not enough graveyards to hold the dead.
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,+3,,,+3,,+5,
+Crypts ,1,"** Holds 200 dead._Discounts: Graveyard_
+
+",2400,,800,,,,4800,,,,,8000,,,,,,,,,,,+2,,,,,,,,,,
+Dump ,1,"**
+
+",600,,,,,,,,,,,5400,,,,,,,,,,,,,,,,-1,,,,,
+Exotic Artisan ,1,"** Must be adjacent to housing. Adds 1 unusual good to market, such as mechanical devices.
+
+",2400,2400,1600,,,,,,1600,,,8000,,,,,,,,+2,,,,+1,,,,,,,,,
+Foreign Quarter ,4,"** One non-Gothic culture gains one free therapy per downtime phase.
+
+",9000,,,,3000,,0,,,,3000,15000,,,,,+1,+4,,+4,,,+3,,+2,,,,+1,,+3,,
+Foundry ,2,"** Metal costs on construction are reduced by 10%. May benefit up to 5x.
+
+",,,2400,1600,,,4000,,,,,8000,,,,,,+2,+1,+5,,,,,,,+3,+5,,,,,
+Gallows ,2,"**
+
+",4800,,1600,,,,0,,1600,,,8000,,,,,+4,,,,,,,,+3,,,,,,,,
+Garrison ,2,"** Allows military stationing. The ruler may take one unit off of the map, add population, and remove the food requirement. _Discounts: Barracks. Upgrade: Military Academy_
+
+",8400,,2800,,1400,,0,,,,1400,14000,,,+2,+5,+2,,,,,,,+4,,+1,,,,,+1,,
+Granary ,1,"** Stores up to 5,000 food.
+
+",5600,,2400,,,,,,,,,8000,,,,,,,,,,,,,,,,,,,,,
+Graveyard ,2,"** Holds 500 dead. Gets Haunted first.
+
+",600,,,,,,200,,400,,,2800,,,,,,,,,,,,,,,,,,,,,
+Guard Station ,1,"**
+
+",6000,,1200,,,,2400,,,,2400,12000,,,+2,+2,,,,,,,,,,+2,,,,,+1,,
+Guild Hall ,2,"** Operated by a specific trade guild. That guild gains 1 free hustle per downtime.
+
+",8500,3400,1700,,,,,,1700,,,17000,,,+2,,,+2,+4,+4,,,,,+3,+2,,+1,,,,,
+Hospital ,2,"** Blessed bandages offered on market for 1 silver each.
+
+",4800,1600,1600,,1600,,,3200,,1600,1600,16000,,,,,,,,,,,,,,,-1,,,,,,
+Housing ,1,"** Increases maximum population by 200.
+
+",1800,,200,,,,,,,,,2000,,,,,,,,,,,,,,,,,,,,,
+Inn ,2,"** Must be adjacent to housing.
+
+",4000,,,,,,2000,,2000,,2000,10000,,,,,,+3,+1,,,,,,+2,,,,,,,,
+Jail ,1,"** The ruler or marshall may jail up to 10 characters for an indefinite amount of time.
+
+",,,4000,,,,4000,,,,,8000,,,+2,,+1,,,,,,,+2,,,,,,,+1,,
+Library ,1,"** Public use of the library item for research.
+
+",800,,,,2000,,,,800,,,2400,1600,academics,,,,,,,,,+1,,+1,,,,,,,,
+Luxury Dealer ,1,"** Add one luxury item to regular circulation. Requires housing.
+
+",4200,4200,2800,,,,,,2800,,,8400,5600,survival,,,,+2,,,,,,+1,,,,,,,,,
+Magician Tower ,2,"** Adds mage services for general purchase for one Arcane Guild. Mages of that guild have easier opportunities for advanced techniques.
+
+",,,2600,,,,10400,,10400,,,26000,,,+2,+4,+4,+3,+3,+2,,,-3,+4,,+4,,,,,+1,,
+Mansion ,SP,"** 1 cabin at game becomes a mansion. It requires canvas walls be set up to expand the perimeter. Privacy: Characters at the mansion gain +2 to their effective streetwise. Security: Mansion quiet hours begin at 12:00am. Convenience: May go from mansion to bathrooms in OOC
+
+",,1000,500,500,,,2000,1000,,,,3000,2000,woodworking,,,,,,,,,,,,,,,,,,,
+Market ,2,"** Must be adjacent to housing.
+
+",14400,,,,4800,,,,2400,,2400,24000,,,,,,+4,+4,+4,,,,,,,+2,,,,,,
+Military Academy ,2,"** Military stationing per garrison. Military Training:Stationed troop wins one battle per chapter. Gravity +1.
+
+",3600,,,,9000,,,,3600,,,18000,,,+2,+5,+2,+1,,,,,+2,+2,,+2,+4,+2,,,+1,+1,+1
+Mint ,1,"** Gravity +1
+
+",4800,,4800,1600,,,4800,,,,,16000,,,,,,+1,+5,,,,,+2,,+2,,,,,,,+1
+Museum ,2,"** After 35 archaeology donations, gain +1 Gravity. After 150, Gravity +2
+
+",1600,,2400,800,,,,,3200,,,8000,,,,,,,,,,,,,,,,,,,,,+2
+Necropolis ,4,"** Holds 2000 dead. _Discounts: Crypts, Graveyard_
+
+",,,3200,,,,12800,,,,,16000,,,,,,,,,,+2,+4,,,,,,,-5,,,
+Orphanage ,1,"**
+
+",3600,,,,,,,,,,,4000,,,,,,,,,,,,,,,,,,-1,+1,,
+Palace ,4,"** Full leadership tree of retainers. Double ruler's stats for city bonuses. _Discounts: Mint, Mansion, Villa_
+
+",,10800,5400,5400,,,21600,,,10800,,32400,21600,woodworking,+5,+5,+5,,,,,,+5,+5,,+4,,,,,,,
+Pier ,1,"** Must be adjacent to water. Can create and hire ships._Discounts: Warehouse.Upgrades: Waterfront._
+
+",2400,800,1600,,,,3200,,,,,8000,,,,,,+2,+2,+1,,,,,+1,,+1,+1,,,,,
+Pulpit ,1,"**
+
+",4800,1600,,,,,1600,,,,,8000,,,,,,,,,+2,,,+1,,,,,,,,,
+Ruin ,1,"** Adds Atrocity and Tragedy when Demolished.
+
+",2100,,,2100,,,2800,,,,,7000,,,,,,,,,,,,,,,,,,,,,
+Sawmill ,1,"** Wood costs on construction are reduced by 10%. May benefit up to 5x.
+
+",3200,,4000,,,,,,,,,8000,,,,,,+2,+1,+5,,,,,,,+3,+5,,,,,
+Security Checkpoint ,1,"**
+
+",4800,,1600,,1600,,,,,,,8000,,,+2,+3,,,,,,,,+2,,,,,,,,,
+Sentry Headquarters ,2,"**
+
+",9600,,3200,,,,,,,,3200,16000,,,+4,+5,+1,,,,,,,+3,,,,,,,,,
+Shop ,1,"** Must be adjacent to housing. Makes a specific good more common.
+
+",2400,400,400,,,,800,,,,,"4000,",,,,,,,,,,,,,,,,,,,,,
+Shrine ,1,"**
+
+",1600,,,,,,2400,,,,,3200,800,liturgy,,,,,,,,+1,,,,,,,,,,,
+Stable ,1,"** Must be adjacent to gate.Puts horses on the market.
+
+",2000,,1000,,1500,,,,,,500,5000,,,,,,+1,,,,,,,,,,,,,,,
+Stockyard ,4,"** Counts as pasture for farming.
+
+",3000,,1000,,1000,,4000,,,,1000,10000,,,,,,,,,,,,,,,+2,+1,+3,,,,
+Tannery ,1,"** Leather costs on construction are reduced by 10%. May benefit up to 5x.
+
+",4800,,800,,2400,,,,,,,8000,,,,,,+2,+1,+5,,,,,,,+3,+5,,,,,
+Tavern ,1,"** Must be adjacent to housing. _Upgrade: Brothel_
+
+",3600,,,,,,1200,,,,1200,6000,,,,,,,+2,,,+1,,,+1,,,,,,+1,,
+Tenement ,1,"** Increases maximum population by 500. Will be built automatically if incoming population exceeds housing. Counts as housing for purpose of adjacency.
+
+",400,,,,,,100,,,,,500,,,,,,,,,,,,+1,+2,,+1,+2,,,,,
+Textile Mill ,1,"**textile costs on construction are reduced by 10%. May benefit up to 5x.
+
+",4800,,800,,,,800,,1600,,,8000,,,,,,+2,+1,+5,,,,,,,+3,+5,,,,,
+Theatre ,2,"**_Upgrade: Arena._
+
+",3200,1600,,,,,1600,,1600,,,8000,,,,,,,+2,,,+3,,,+1,,,,,,,,
+Townhall ,2,"**_none._
+
+",4400,,1100,,,,5500,,,,,11000,,,+1,,-3,,,+1,,,,-1,,-3,,,,,,,
+University ,4,"**As Academy, but pedagogue discount. Gravity +3. Public Library.
+
+",10800,3600,7200,,,,10800,,,,3600,36000,,,+4,,,+3,,,+1,+3,+5,,,+3,,+1,,,,,+3
+Warehouse ,1,"**Allows private item storage for owner.
+
+",4800,,800,,,,2400,,,,,8000,,,,,,+1,,,,,,,,,,,,,,,
+Waterfront ,4,"**10% population gain._Discounts:_****_Guildhall,Market, Pier_
+
+",6000,,2000,,,,12000,,,,,20000,,,,,,+5,+5,+5,,,,,+2,,+2,+3,+2,,,,
+Waterway ,1,"** acts like a water road between lots.
+
+",,,150,,,,1350,,,,,1500,,,,,,,,,,,,,,,,,,,,,
+Well ,1,"**
+
+",400,,400,,,,400,,,,,6800,,,,,,,,,,,,,,,,,-1,,,,
